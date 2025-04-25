@@ -1,4 +1,4 @@
-## Hi there 👋
+## ALEX CALAUNAN JR 🎸
 
 ![alexcalaunanjr's github stats](https://github-readme-stats.vercel.app/api?username=alexcalaunanjr&theme=tokyonight&show_icons=true)
 
