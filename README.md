@@ -2,7 +2,7 @@
 
 ![alexcalaunanjr's github stats](https://github-readme-stats.vercel.app/api?username=alexcalaunanjr&theme=tokyonight&show_icons=true&rank_icon=github)
 
-![alexcalaunanjr's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexcalaunanjr&layout=donut-vertical&hide=jupyter&theme=tokyonight)
+![alexcalaunanjr's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexcalaunanjr&layout=donut&hide=jupyter&theme=tokyonight)
 
 <!--
 **alexcalaunanjr/alexcalaunanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
