@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-![alexcalaunanjr's github stats](https://github-readme-stats.vercel.app/api?username=alexcalaunanjr&theme=tokyonight&show_icons=true&rank_icon=github)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexcalaunanjr&theme=tokyonight&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexcalaunanjr&layout=donut&hide=jupyter_notebook&card_width=320&theme=tokyonight" />
+</a>
+<!-- ![alexcalaunanjr's github stats](https://github-readme-stats.vercel.app/api?username=alexcalaunanjr&theme=tokyonight&show_icons=true&rank_icon=github) -->
 
-![alexcalaunanjr's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexcalaunanjr&layout=donut&hide=jupyter&theme=tokyonight)
+<!-- ![alexcalaunanjr's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexcalaunanjr&layout=donut&hide=jupyter_notebook&&theme=tokyonight) -->
 
 <!--
 **alexcalaunanjr/alexcalaunanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
