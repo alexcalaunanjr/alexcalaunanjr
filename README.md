@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexcalaunanjr&theme=tokyonight&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexcalaunanjr&layout=donut&hide=jupyter_notebook&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexcalaunanjr&layout=donut&hide=jupyter%20notebook&card_width=320&theme=tokyonight" />
 </a>
 <!-- ![alexcalaunanjr's github stats](https://github-readme-stats.vercel.app/api?username=alexcalaunanjr&theme=tokyonight&show_icons=true&rank_icon=github) -->
 
